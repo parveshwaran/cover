@@ -1,0 +1,86 @@
+.box1
+{
+    height: 100%;
+    width: 45%;
+    border: solid 3px;
+    margin-left: 365px;
+    padding-bottom: 100px;
+    margin: auto;
+    border-radius: 15px;
+    background:linear-gradient(red,blue);
+}
+.box2
+{
+     height: 115px;
+    width: 500px;
+    margin-left: 80px;
+    border-left: solid 3px;
+    background-color: gray;
+    display: flex;
+}
+.box3
+{
+    height: 130px;
+    width: 500px;
+    margin-left: 80px;
+    margin-top: 25px;
+    border: solid 2px;color: black;
+    background-color: white;
+    display: flex;
+    align-items: flex-start;
+}
+.info
+{
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    margin-left: 80px;
+    margin-top: 65px;
+}
+img{
+    height: 130px;
+    width: 120px;
+    
+}
+h3{
+    margin-left: 15px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+h4
+{
+    margin-left: 15px;
+}
+.box4
+{
+    height: 170px;
+    width: 500px;
+    margin-left: 80px;
+    margin-top: 15px;
+    background-color:peachpuff;
+    border: solid 3px;
+    border-radius: 5px;
+    display: flexbox;
+}
+.amount
+{
+    display: flex;
+    flex-direction: row-reverse;
+    padding-bottom: 15px;
+    padding-right: 15px;
+}
+h5
+{
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+hr{
+    color: whitesmoke;
+    border: solid 3px;
+    margin-left: 80px;
+}
+h2
+{
+    margin-left: 15px;
+}
